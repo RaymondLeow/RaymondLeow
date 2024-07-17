@@ -1,4 +1,9 @@
-## Hi there 👋
+### Other projects I've contributed to:
+
+- [FrankenFight](https://github.com/user/repo1): GameJam Spring 2020, made with JS Phaser.
+- [Smack Dat Dwarf](https://github.com/AndreasTheGrey/GameJam2017): GameJam Autumn 2017, made with Unity.
+- [Binding of Ice Cream](https://github.com/Golen87/binding-of-ice-cream): GameJam Spring 2017, made with JS Phaser.
+
 
 <!--
 **RaymondLeow/RaymondLeow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
